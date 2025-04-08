@@ -11,11 +11,9 @@ export default function Perfil() {
                 <Cards ImgSrc={{ uri: "https://cdn-icons-png.flaticon.com/512/25/25231.png" }} />
                 <Cards ImgSrc={{ uri: "https://cdn-icons-png.flaticon.com/512/732/732212.png" }} />
                 <Cards ImgSrc={{ uri: "https://cdn-icons-png.flaticon.com/512/732/732190.png" }} />
-                <Cards ImgSrc={{ uri: "https://cdn-icons-png.flaticon.com/512/2111/2111288.png" }} />
                 <Cards ImgSrc={{ uri: "https://cdn-icons-png.flaticon.com/512/5968/5968292.png" }} />
                 <Cards ImgSrc={{ uri: "https://cdn-icons-png.flaticon.com/512/1183/1183672.png" }} />
                 <Cards ImgSrc={{ uri: "https://cdn-icons-png.flaticon.com/512/5968/5968342.png" }} />
-                <Cards ImgSrc={{ uri: "https://cdn-icons-png.flaticon.com/512/5968/5968520.png" }} />
             </View>
         </View>
     );
